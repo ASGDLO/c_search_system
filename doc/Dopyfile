@@ -4,3 +4,4 @@ HTML_OUTPUT            = html5
 GENERATE_HTML          = NO
 GENERATE_XML           = YES
 XML_PROGRAMLISTING     = NO
+ 

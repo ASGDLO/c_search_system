@@ -7,5 +7,5 @@ clean:
 ifndef GITHUB_ACTIONS
 	@cd .. && rm -f *.gcda *.gcno
 endif
-
+ 
 .PHONY: all test units clean
